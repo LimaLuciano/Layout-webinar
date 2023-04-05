@@ -1,4 +1,4 @@
-# Layout de cadastro de curso.
+# Layout de cadastro de curso
 
 Layout feito em HTML e CSS.
 
